@@ -1,4 +1,1 @@
-R4B
-===
-
-Rails for Beginners.
+# Rails for Beginners.
